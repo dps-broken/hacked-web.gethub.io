@@ -1,0 +1,41 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+h1 {
+    color: aliceblue;
+    text-align: end;
+    font: size 50px;
+    position: absolute;
+    left: 57%;
+    top: 35%;
+}
+#s {
+    position: absolute;
+    left: 57%;
+    top: 53%;
+    
+    border: solid 1px;
+    height: 300px;
+    width: 500px;
+}
+p {
+    color: aliceblue;
+    font: size 50px;
+    position: absolute;
+    left: 57%;
+    top: 45%;
+}
+form{
+    color: white;
+}
+.mylink{
+    text-decoration: none;
+    border: 1px snow solid;
+    color: white;
+    background: red;
+    padding: 5px 20px;
+    position: relative;
+    top: 25px;
+    left: 60px;
+}
